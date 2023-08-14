@@ -57,6 +57,7 @@ header {
 
 #dice-icon {
   margin: 1.65rem auto;
+  box-shadow: 0px 0px 300px 35px rgb(72, 149, 118);
 }
 
 @media screen and (max-width: 445px) {
